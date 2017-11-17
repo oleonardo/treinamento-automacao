@@ -1,6 +1,6 @@
 exports.config = {
-    sauceUser: "ernestos_barbosa",
-    sauceKey: "11cf801b-8551-438d-9a13-188ae6c506ae",
+    sauceUser: "leonardo.oliveira",
+    sauceKey: "5c0d3123-8a68-4f31-9dbc-7b8756ce18c8",
     // seleniumAddress: 'http://localhost:4444/wd/hub',
     capabilities: {
         browserName: 'chrome'
